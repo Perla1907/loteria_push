@@ -44,3 +44,5 @@ function describirPatron(nombre) {
 }
  
 module.exports = { PATRONES, patronesCompletos, cartaQueFalta, describirPatron };
+
+
