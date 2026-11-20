@@ -151,7 +151,9 @@ Pruebas
     <tr>
       <td><img width="1080" height="2412" alt="Notificaciones1" src="https://github.com/user-attachments/assets/18dd3943-beae-418b-bd9d-21c1a38f78e7" /></td>
       <td><img width="1080" height="2412" alt="Notificaciones2" src="https://github.com/user-attachments/assets/537c14ec-40d5-4bc7-afdf-c1fa70657ee4" /></td>
-      <td></td>
+      <td><img width="716" height="1600" alt="Notificaciones3" src="https://github.com/user-attachments/assets/e55679f7-efb7-4cdd-ae90-7510696f84f1" /></td>
+      <td><img width="716" height="1600" alt="Notificaciones4" src="https://github.com/user-attachments/assets/9463134d-36ee-4097-bb7a-c594dbfce715" /></td>
+      <td><img width="716" height="1600" alt="Notificaciones5" src="https://github.com/user-attachments/assets/591f066b-e618-42f8-aa05-7a806d9c9845" /></td>
     </tr>
   </tbody>
 </table>
